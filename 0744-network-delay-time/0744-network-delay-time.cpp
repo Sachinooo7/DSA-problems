@@ -3,7 +3,9 @@ public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         
         vector<int>vis(n+1,INT_MAX);
-        queue<pair<int,int>>q;
+        // queue<pair<int,int>>q;
+                priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> q;
+
         vector<vector<pair<int,int>>>adj(n+1);
         for(auto t:times){
             adj[t[0]].push_back({t[1],t[2]});
@@ -11,7 +13,7 @@ public:
         vis[k]=0;
         q.push({0,k});
         while(!q.empty()){
-            auto t=q.front(); q.pop();
+            auto t=q.top(); q.pop();
             int time=t.first;
             int node=t.second;
 
