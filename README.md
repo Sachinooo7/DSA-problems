@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sachinooo7/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sachinooo7/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -85,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+## Greedy
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
