@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sachinooo7/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
