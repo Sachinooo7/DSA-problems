@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
