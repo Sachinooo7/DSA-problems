@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sachinooo7/DSA-problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
