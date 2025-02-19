@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachinooo7/DSA-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sachinooo7/DSA-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Database
 |  |
 | ------- |
