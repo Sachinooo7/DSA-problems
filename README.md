@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sachinooo7/DSA-problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0119-pascals-triangle-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Sachinooo7/DSA-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sachinooo7/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachinooo7/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
