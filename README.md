@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sachinooo7/DSA-problems/tree/master/0455-assign-cookies) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sachinooo7/DSA-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sachinooo7/DSA-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sachinooo7/DSA-problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sachinooo7/DSA-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachinooo7/DSA-problems/tree/master/3227-find-missing-and-repeated-values) |
