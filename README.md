@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/1250-longest-common-subsequence) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sachinooo7/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/1250-longest-common-subsequence) |
