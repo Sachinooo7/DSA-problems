@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sachinooo7/DSA-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Sachinooo7/DSA-problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Sachinooo7/DSA-problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sachinooo7/DSA-problems/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Sachinooo7/DSA-problems/tree/master/0455-assign-cookies) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Sachinooo7/DSA-problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Recursion
 |  |
