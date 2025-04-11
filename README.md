@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sachinooo7/DSA-problems/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachinooo7/DSA-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -409,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sachinooo7/DSA-problems/tree/master/0274-h-index) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
