@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinooo7/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sachinooo7/DSA-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sachinooo7/DSA-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0219-contains-duplicate-ii) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachinooo7/DSA-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sachinooo7/DSA-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
