@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Sachinooo7/DSA-problems/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Sachinooo7/DSA-problems/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
+| [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
 ## Simulation
