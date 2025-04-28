@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sachinooo7/DSA-problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sachinooo7/DSA-problems/tree/master/0120-triangle) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Sachinooo7/DSA-problems/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Sachinooo7/DSA-problems/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinooo7/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
