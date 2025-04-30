@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Sachinooo7/DSA-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
 | [1829-maximum-units-on-a-truck](https://github.com/Sachinooo7/DSA-problems/tree/master/1829-maximum-units-on-a-truck) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Sachinooo7/DSA-problems/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sachinooo7/DSA-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/2998-count-symmetric-integers) |
