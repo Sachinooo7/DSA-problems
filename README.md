@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinooo7/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sachinooo7/DSA-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sachinooo7/DSA-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinooo7/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sachinooo7/DSA-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sachinooo7/DSA-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sachinooo7/DSA-problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0343-integer-break](https://github.com/Sachinooo7/DSA-problems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/0357-count-numbers-with-unique-digits) |
