@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sachinooo7/DSA-problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0063-unique-paths-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sachinooo7/DSA-problems/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sachinooo7/DSA-problems/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Sachinooo7/DSA-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sachinooo7/DSA-problems/tree/master/0062-unique-paths) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -491,5 +495,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
