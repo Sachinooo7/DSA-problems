@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Sachinooo7/DSA-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Sachinooo7/DSA-problems/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Sachinooo7/DSA-problems/tree/master/0455-assign-cookies) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachinooo7/DSA-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Sachinooo7/DSA-problems/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -510,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
