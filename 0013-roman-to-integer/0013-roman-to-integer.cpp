@@ -1,26 +1,28 @@
-class Solution {
+
+      class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char,int>hash;
-        hash['I']=1;
-        hash['V']=5;
-        hash['X']=10;
-        hash['L']=50;
-        hash['C']=100;
-        hash['D']=500;
-        hash['M']=1000;
-
-int n=s.size();
-        int sum=hash[s[n-1]];
-        for(int i=n-2;i>=0;i--){
-            if(hash[s[i]]<hash[s[i+1]]){
-                sum-=hash[s[i]];
+        unordered_map<char, int> m;
+        
+        m['I'] = 1;
+        m['V'] = 5;
+        m['X'] = 10;
+        m['L'] = 50;
+        m['C'] = 100;
+        m['D'] = 500;
+        m['M'] = 1000;
+        
+        int ans = 0;
+        
+        for(int i = 0; i < s.length(); i++){
+            if(m[s[i]] < m[s[i+1]]){
+                ans -= m[s[i]];
             }
             else{
-                sum+=hash[s[i]];
+                ans += m[s[i]];
             }
         }
-        return sum;
-        
+        return ans;
     }
-};
+};  
+    
