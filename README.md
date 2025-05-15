@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sachinooo7/DSA-problems/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sachinooo7/DSA-problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Sachinooo7/DSA-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sachinooo7/DSA-problems/tree/master/0066-plus-one) |
