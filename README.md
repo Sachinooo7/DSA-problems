@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sachinooo7/DSA-problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Sachinooo7/DSA-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Sachinooo7/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Sachinooo7/DSA-problems/tree/master/0274-h-index) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Sachinooo7/DSA-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
