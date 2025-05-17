@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sachinooo7/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sachinooo7/DSA-problems/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Sachinooo7/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sachinooo7/DSA-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sachinooo7/DSA-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sachinooo7/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sachinooo7/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Linked List
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sachinooo7/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
