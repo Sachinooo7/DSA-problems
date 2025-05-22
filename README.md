@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Sachinooo7/DSA-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sachinooo7/DSA-problems/tree/master/0055-jump-game) |
