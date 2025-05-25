@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sachinooo7/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sachinooo7/DSA-problems/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Sachinooo7/DSA-problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sachinooo7/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sachinooo7/DSA-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Sachinooo7/DSA-problems/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sachinooo7/DSA-problems/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/Sachinooo7/DSA-problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sachinooo7/DSA-problems/tree/master/2299-merge-nodes-in-between-zeros) |
