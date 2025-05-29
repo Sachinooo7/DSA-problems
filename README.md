@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sachinooo7/DSA-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sachinooo7/DSA-problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Sachinooo7/DSA-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sachinooo7/DSA-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sachinooo7/DSA-problems/tree/master/0115-distinct-subsequences) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sachinooo7/DSA-problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Sachinooo7/DSA-problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Sachinooo7/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
