@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
