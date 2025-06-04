@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0092-reverse-linked-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Sachinooo7/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0203-remove-linked-list-elements) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
