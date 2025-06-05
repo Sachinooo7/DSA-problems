@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-void solve(TreeNode* root,string str,int& sum){
-    if(root==nullptr) return;
-
-    str=str+to_string(root->val);
+void solve(TreeNode* root,int &tot,int sum){
+    if(!root) return ;
+    sum=sum*10+root->val;
     if(!root->left && !root->right){
-        sum+=stoi(str);
+        tot+=sum;
         return;
-    }
-    solve(root->left,str,sum);
-    solve(root->right,str,sum);
+    } 
+        
+    solve(root->left,tot,sum);
+    solve(root->right,tot,sum);
 }
     int sumNumbers(TreeNode* root) {
-        string str;
+        int tot=0;
         int sum=0;
-        solve(root,str,sum);
-        return sum;
+        solve(root,tot,sum);
+        return tot;
+        
     }
 };
