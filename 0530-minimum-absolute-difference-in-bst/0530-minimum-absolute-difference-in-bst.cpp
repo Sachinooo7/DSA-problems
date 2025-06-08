@@ -11,22 +11,20 @@
  */
 class Solution {
 public:
-void solve(TreeNode* root,stack<int>&s,int & mn){
+void solve(TreeNode* root,int&s,int & mn){
     if(!root) return;
     solve(root->left,s,mn);
-    if(!s.empty()){
-        mn=min(mn,abs(root->val-s.top())); s.pop();
+    if(s!=-1){
+        mn=min(mn,abs(root->val-s)); 
 
     }
-        s.push(root->val);
+        s=root->val;
         solve(root->right,s,mn);
 }
     int getMinimumDifference(TreeNode* root) {
-
         int mn=INT_MAX;
-        stack<int>s;
+        int s=-1;
         solve(root,s,mn);
-        
         return mn;
     }
 };
