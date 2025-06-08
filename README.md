@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sachinooo7/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sachinooo7/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sachinooo7/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sachinooo7/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sachinooo7/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
 | ------- |
