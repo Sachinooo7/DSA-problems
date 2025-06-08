@@ -12,7 +12,7 @@
 class Solution {
 public:
 void solve(TreeNode* root,int &prev,bool& b){
-    if(!root)return;
+    if(!root || !b)return;
     solve(root->left,prev,b);
     if(prev!=123 && prev>=root->val){
         b=0;
