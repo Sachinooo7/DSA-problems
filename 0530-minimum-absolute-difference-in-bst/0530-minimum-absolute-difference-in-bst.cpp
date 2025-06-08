@@ -15,7 +15,8 @@ void solve(TreeNode* root,stack<int>&s,int & mn){
     if(!root) return;
     solve(root->left,s,mn);
     if(!s.empty()){
-        mn=min(mn,abs(root->val-s.top()));
+        mn=min(mn,abs(root->val-s.top())); s.pop();
+
     }
         s.push(root->val);
         solve(root->right,s,mn);
