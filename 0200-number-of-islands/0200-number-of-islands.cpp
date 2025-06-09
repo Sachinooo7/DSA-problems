@@ -39,7 +39,6 @@ void solve(vector<vector<char>>& grid,int i,int j,int n,int m){
     int numIslands(vector<vector<char>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        // vector<vector<int>>vis(n,vector<int>(m,0));
         int c=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
