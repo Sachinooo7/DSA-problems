@@ -1,40 +1,29 @@
 class Solution {
 public:
+    bool canFinish(int num, vector<vector<int>>& pre) {
 
-void dfs(int i,vector<vector<int>>&adj,vector<int>&vis,vector<int>&path,bool& b){
-    vis[i]=1;
-    path[i]=1;
-    for(auto x:adj[i]){
-        if(!vis[x]){
-            dfs(x,adj,vis,path,b);
-            if(!b) return;
-        
+        queue<int>q;
+        vector<vector<int>>adj(num);
+        vector<int>ind(num);
+
+        for(auto a:pre){
+            adj[a[1]].push_back(a[0]);
+            ind[a[0]]++;
         }
-        else if(path[x]){
-            b=0;
-            return;
+
+        for(int i=0;i<num;i++){
+            if(ind[i]==0) q.push(i);
         }
-    }
-    path[i]=0;
-}
+int x=0;
+        while(!q.empty()){
+            auto t=q.front(); q.pop();
+            x++;
 
-    bool canFinish(int n, vector<vector<int>>& pre) {
-
- vector<vector<int>>adj(n);       
-for(int i=0;i<pre.size();i++){
-    adj[pre[i][1]].push_back(pre[i][0]);
-
-}
-        vector<int>vis(n,0);
-        vector<int>path(n,0);
-bool b=true;
-        for(int i=0;i<n;i++){
-            if(!vis[i])
-            {
-             dfs(i,adj,vis,path,b);
-                if(!b) return false;
+            for(auto a:adj[t]){
+                ind[a]--;
+                if(ind[a]==0) q.push(a);
             }
         }
-        return true;
+        return x==num?1:0;
     }
 };
