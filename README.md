@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/Sachinooo7/DSA-problems/tree/master/0077-combinations) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [2107-find-unique-binary-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2107-find-unique-binary-string) |
 ## Biconnected Component
