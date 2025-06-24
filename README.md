@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sachinooo7/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/Sachinooo7/DSA-problems/tree/master/1894-merge-strings-alternately) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sachinooo7/DSA-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
