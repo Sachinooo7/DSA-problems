@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Sachinooo7/DSA-problems/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sachinooo7/DSA-problems/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0908-middle-of-the-linked-list) |
