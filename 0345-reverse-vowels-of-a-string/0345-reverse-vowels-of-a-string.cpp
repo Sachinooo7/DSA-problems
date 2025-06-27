@@ -11,7 +11,9 @@ bool check(char c){
         while(i<j){
             if(!check(s[i])) i++;
             else if(!check(s[j])) j--;
-            else if(check(s[i]) && check(s[j])) {
+            else 
+            // if(check(s[i]) && check(s[j]))
+             {
                 swap(s[j],s[i]);
                 i++;
                 j--;
