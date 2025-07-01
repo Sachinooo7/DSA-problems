@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/Sachinooo7/DSA-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/Sachinooo7/DSA-problems/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Sachinooo7/DSA-problems/tree/master/1170-shortest-common-supersequence) |
