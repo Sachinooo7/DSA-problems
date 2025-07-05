@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Sachinooo7/DSA-problems/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sachinooo7/DSA-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Sachinooo7/DSA-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachinooo7/DSA-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sachinooo7/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2107-find-unique-binary-string) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sachinooo7/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sachinooo7/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
