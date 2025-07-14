@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Sachinooo7/DSA-problems/tree/master/0224-basic-calculator) |
+| [0319-bulb-switcher](https://github.com/Sachinooo7/DSA-problems/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Sachinooo7/DSA-problems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Sachinooo7/DSA-problems/tree/master/0368-largest-divisible-subset) |
@@ -785,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Sachinooo7/DSA-problems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
