@@ -1,27 +1,19 @@
 class Solution {
 public:
-    int maximumUnits(vector<vector<int>>& boxTypes, int ts) {
-         map<int, int, greater<int>> mp;
+    int maximumUnits(vector<vector<int>>& boxTypes, int tSize) {
+        
+        sort(boxTypes.begin(),boxTypes.end(),[](auto& a,auto& b){
+            return a[1]>b[1];
+        });
+int mx=0;
         for(auto a:boxTypes){
-            mp[a[1]]=mp[a[1]]+a[0];
-        }
-
-        int size=0;
-
-        for(auto a:mp){
-            if(ts){
-                if(ts<a.second){
-                    size+=a.first*ts;
-                    return size;
-                }
-                else{
-                size+=a.first*a.second;
-                }
-                ts-=a.second;
+            if(tSize<a[0]){
+                mx+=tSize*a[1];
+                break;
             }
-
+            mx+=a[0]*a[1];
+            tSize-=a[0];
         }
-        return size;
-
+        return mx;
     }
 };
