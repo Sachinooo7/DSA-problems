@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Sachinooo7/DSA-problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Sachinooo7/DSA-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Sachinooo7/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sachinooo7/DSA-problems/tree/master/0274-h-index) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Sachinooo7/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sachinooo7/DSA-problems/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Sachinooo7/DSA-problems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Sachinooo7/DSA-problems/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sachinooo7/DSA-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sachinooo7/DSA-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Sachinooo7/DSA-problems/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sachinooo7/DSA-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sachinooo7/DSA-problems/tree/master/0312-burst-balloons) |
