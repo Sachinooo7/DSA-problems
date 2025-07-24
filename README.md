@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sachinooo7/DSA-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachinooo7/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Sachinooo7/DSA-problems/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sachinooo7/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sachinooo7/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sachinooo7/DSA-problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sachinooo7/DSA-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Sachinooo7/DSA-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sachinooo7/DSA-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Sachinooo7/DSA-problems/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
 ## Simulation
