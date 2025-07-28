@@ -1,39 +1,32 @@
 class Solution {
 public:
 
-void findmx(vector<int>nums,int &mx,int i){
-    if(i>=nums.size()) return;
+int mxx=0;
 
-    mx=max(mx,mx|nums[i]);
-    findmx(nums,mx,i+1);
-    findmx(nums,mx,i+1);
-}
-
-void solve(vector<int>nums,int mx,int i,int& c,int m){
+void solve(vector<int>nums,int i,int& c,int m){
     if(i>=nums.size()) {
-    if(m==mx){
+    if(m==mxx){
     c++;
     } 
+    else if(m>mxx){
+        mxx=m;
+        c=1;
+    }
         return;
         }
 
-    solve(nums,mx,i+1,c,m|nums[i]);
-    solve(nums,mx,i+1,c,m);
+    solve(nums,i+1,c,m|nums[i]);
+    solve(nums,i+1,c,m);
 
 }
 
     int countMaxOrSubsets(vector<int>& nums) {
         
 
-    int mx=0;
 
-    findmx(nums,mx,0);
+    // findmx(nums,mx,0);
     int c=0;
-
-    solve(nums,mx,0,c,0);
-
-
-
+    solve(nums,0,c,0);
     return c;
 
     }
