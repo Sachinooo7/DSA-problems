@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sachinooo7/DSA-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1813-maximum-erasure-value](https://github.com/Sachinooo7/DSA-problems/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
