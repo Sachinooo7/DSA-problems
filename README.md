@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sachinooo7/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachinooo7/DSA-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sachinooo7/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sachinooo7/DSA-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachinooo7/DSA-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sachinooo7/DSA-problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
 ## Counting
