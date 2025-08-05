@@ -3,33 +3,40 @@
 
 class Solution {
 public:
-    bool isMatch(string s, string p) {
-        int n = s.size();
-        int m = p.size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+    bool isMatch(string txt, string pat) {
+      
+        int i = 0, j = 0;
+        int starIdx = -1, match = 0;
 
-        dp[0][0] = 1; // Empty string matches empty pattern
-
-        // Fill dp[0][j]: When s is empty
-        for (int j = 1; j <= m; j++) {
-            if (p[j - 1] == '*') dp[0][j] = dp[0][j - 1];
-            else break; // Once non-* encountered, rest will be false
-        }
-
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
-                if (p[j - 1] == s[i - 1] || p[j - 1] == '?') {
-                    dp[i][j] = dp[i - 1][j - 1];
-                }
-                else if (p[j - 1] == '*') {
-                    dp[i][j] = dp[i - 1][j] || dp[i][j - 1];
-                }
-                else {
-                    dp[i][j] = 0;
-                }
+        while (i < txt.size()) {
+            // Characters match or '?' wildcard
+            if (j < pat.size() && (pat[j] == txt[i] || pat[j] == '?')) {
+                i++; j++;
+            }
+            // '*' wildcard
+            else if (j < pat.size() && pat[j] == '*') {
+                starIdx = j;
+                match = i;
+                j++;
+            }
+            // Mismatch but previous '*' exists
+            else if (starIdx != -1) {
+                j = starIdx + 1;
+                match++;
+                i = match;
+            }
+            // No match and no '*'
+            else {
+                return false;
             }
         }
 
-        return dp[n][m];
+        // Check for remaining characters in pattern (they must all be '*')
+        while (j < pat.size() && pat[j] == '*') {
+            j++;
+        }
+
+        return j == pat.size();
+        
     }
 };
