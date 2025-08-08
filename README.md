@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/Sachinooo7/DSA-problems/tree/master/0433-minimum-genetic-mutation) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Sachinooo7/DSA-problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Math
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Sachinooo7/DSA-problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0445-add-two-numbers-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
