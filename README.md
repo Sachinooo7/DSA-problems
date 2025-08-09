@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sachinooo7/DSA-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/Sachinooo7/DSA-problems/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [0932-monotonic-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Sachinooo7/DSA-problems/tree/master/0940-fruit-into-baskets) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/Sachinooo7/DSA-problems/tree/master/0735-asteroid-collision) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sachinooo7/DSA-problems/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Sachinooo7/DSA-problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Sachinooo7/DSA-problems/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sachinooo7/DSA-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2428-equal-row-and-column-pairs) |
