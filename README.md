@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
+| [0904-leaf-similar-trees](https://github.com/Sachinooo7/DSA-problems/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachinooo7/DSA-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sachinooo7/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Sachinooo7/DSA-problems/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Sachinooo7/DSA-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sachinooo7/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Sachinooo7/DSA-problems/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Database
