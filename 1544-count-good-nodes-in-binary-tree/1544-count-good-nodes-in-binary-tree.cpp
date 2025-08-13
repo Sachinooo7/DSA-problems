@@ -11,27 +11,21 @@
  */
 class Solution {
 public:
+    void solve(TreeNode* root, int maxVal, int &count) {
+        if (!root) return;
 
-void solve(TreeNode* root,stack<int>s,int &c){
-    if(!root) return;
+        if (root->val >= maxVal) {
+            count++;
+            maxVal = root->val; // update max so far
+        }
 
-    if(s.top()<=root->val){
-        c++;
-        s.push(root->val);
+        solve(root->left, maxVal, count);
+        solve(root->right, maxVal, count);
     }
 
-    solve(root->left,s,c);
-    solve(root->right,s,c);
-    s.pop();
-}
     int goodNodes(TreeNode* root) {
-
-        int c=0;
-        stack<int>s;
-        s.push(INT_MIN);
-        solve(root,s,c);
-        return c;
-
-        
+        int count = 0;
+        solve(root, INT_MIN, count);
+        return count;
     }
 };
