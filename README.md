@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Sachinooo7/DSA-problems/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/0647-palindromic-substrings) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachinooo7/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Sachinooo7/DSA-problems/tree/master/1170-shortest-common-supersequence) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sachinooo7/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sachinooo7/DSA-problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sachinooo7/DSA-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachinooo7/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Sachinooo7/DSA-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sachinooo7/DSA-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/Sachinooo7/DSA-problems/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachinooo7/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sachinooo7/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
