@@ -5,10 +5,7 @@ public:
         stack<char>stk;
 
         for(auto a:s){
-            if(stk.empty() || a=='('){
-                stk.push(a);
-            }
-            else if(stk.top()==')'){
+            if(stk.empty() || a=='(' || stk.top()==')'){
                 stk.push(a);
             }
             else stk.pop();
