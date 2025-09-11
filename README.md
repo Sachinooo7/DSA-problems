@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sachinooo7/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2470-removing-stars-from-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2470-removing-stars-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Sachinooo7/DSA-problems/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sachinooo7/DSA-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/Sachinooo7/DSA-problems/tree/master/2636-maximum-subsequence-score) |
+| [2887-sort-vowels-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/Sachinooo7/DSA-problems/tree/master/3321-type-of-triangle) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
