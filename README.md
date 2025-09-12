@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Sachinooo7/DSA-problems/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachinooo7/DSA-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Sachinooo7/DSA-problems/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -939,8 +941,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Sachinooo7/DSA-problems/tree/master/0319-bulb-switcher) |
+| [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0459-repeated-substring-pattern) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
