@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
