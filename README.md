@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sachinooo7/DSA-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sachinooo7/DSA-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sachinooo7/DSA-problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Sachinooo7/DSA-problems/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachinooo7/DSA-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sachinooo7/DSA-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sachinooo7/DSA-problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sachinooo7/DSA-problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Sachinooo7/DSA-problems/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Sachinooo7/DSA-problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/Sachinooo7/DSA-problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/0371-sum-of-two-integers) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sachinooo7/DSA-problems/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Sachinooo7/DSA-problems/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Sachinooo7/DSA-problems/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [2107-find-unique-binary-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
