@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-      vector<vector<int>>ans;
+         vector<vector<int>>ans;
       sort(nums.begin(),nums.end());
       for(int i=0;i<nums.size();i++){
         if(i>0 && nums[i]==nums[i-1]) continue;
