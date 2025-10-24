@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sachinooo7/DSA-problems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3952-trionic-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3952-trionic-array-i) |
+| [4003-longest-fibonacci-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/4003-longest-fibonacci-subarray) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Sachinooo7/DSA-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Matrix
