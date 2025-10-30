@@ -21,7 +21,7 @@ public:
                 maxArea = max(maxArea, height*width);
             }
             st.push(i);
-        }
+        } 
         return maxArea;
     }
 
