@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Sachinooo7/DSA-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sachinooo7/DSA-problems/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0414-third-maximum-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sachinooo7/DSA-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Sachinooo7/DSA-problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Sachinooo7/DSA-problems/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0414-third-maximum-number) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Sachinooo7/DSA-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -788,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sachinooo7/DSA-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
@@ -991,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1025,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Sachinooo7/DSA-problems/tree/master/0830-largest-triangle-area) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
