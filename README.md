@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Sachinooo7/DSA-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sachinooo7/DSA-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Sachinooo7/DSA-problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sachinooo7/DSA-problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Sachinooo7/DSA-problems/tree/master/0127-word-ladder) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sachinooo7/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sachinooo7/DSA-problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sachinooo7/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Sachinooo7/DSA-problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sachinooo7/DSA-problems/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sachinooo7/DSA-problems/tree/master/0120-triangle) |
