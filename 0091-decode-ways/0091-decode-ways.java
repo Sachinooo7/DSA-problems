@@ -10,7 +10,7 @@ class Solution {
 
         for(int i=2;i<=n;i++){
 
-            int fir=Character.getNumericValue(s.charAt(i-1));
+            int fir=s.charAt(i-1)-'0';
             int sec=Integer.parseInt(s.substring(i-2,i));
 
             if(fir>0 && fir<=9) dp[i]+=dp[i-1];
