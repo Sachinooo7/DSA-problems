@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sachinooo7/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sachinooo7/DSA-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Sachinooo7/DSA-problems/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/Sachinooo7/DSA-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0459-repeated-substring-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Sachinooo7/DSA-problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Sachinooo7/DSA-problems/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sachinooo7/DSA-problems/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Sachinooo7/DSA-problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0583-delete-operation-for-two-strings) |
