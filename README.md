@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sachinooo7/DSA-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sachinooo7/DSA-problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2058-concatenation-of-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Sachinooo7/DSA-problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sachinooo7/DSA-problems/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Sachinooo7/DSA-problems/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sachinooo7/DSA-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sachinooo7/DSA-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2324-find-triangular-sum-of-an-array) |
