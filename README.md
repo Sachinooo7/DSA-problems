@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sachinooo7/DSA-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Sachinooo7/DSA-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sachinooo7/DSA-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sachinooo7/DSA-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Sachinooo7/DSA-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Sachinooo7/DSA-problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sachinooo7/DSA-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
