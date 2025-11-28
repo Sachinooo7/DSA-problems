@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Sachinooo7/DSA-problems/tree/master/1833-find-the-highest-altitude) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Sliding Window
 |  |
