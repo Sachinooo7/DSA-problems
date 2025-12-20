@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Sachinooo7/DSA-problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sachinooo7/DSA-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sachinooo7/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sachinooo7/DSA-problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0678-valid-parenthesis-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sachinooo7/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachinooo7/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/1146-greatest-common-divisor-of-strings) |
