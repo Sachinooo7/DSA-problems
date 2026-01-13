@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sachinooo7/DSA-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachinooo7/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-longest-happy-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/1392-longest-happy-prefix) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sachinooo7/DSA-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sachinooo7/DSA-problems/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## Game Theory
 |  |
 | ------- |
@@ -1139,8 +1141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
