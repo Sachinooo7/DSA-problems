@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachinooo7/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Sachinooo7/DSA-problems/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachinooo7/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Sachinooo7/DSA-problems/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachinooo7/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sachinooo7/DSA-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sachinooo7/DSA-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
