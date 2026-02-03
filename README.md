@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/Sachinooo7/DSA-problems/tree/master/3583-count-special-triplets) |
+| [3637-trionic-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3637-trionic-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sachinooo7/DSA-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
