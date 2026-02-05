@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3827-count-monobit-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/3827-count-monobit-integers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Sliding Window
 |  |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3827-count-monobit-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/3827-count-monobit-integers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Binary Indexed Tree
 |  |
