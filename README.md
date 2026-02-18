@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sachinooo7/DSA-problems/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Sachinooo7/DSA-problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Sachinooo7/DSA-problems/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Sachinooo7/DSA-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sachinooo7/DSA-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sachinooo7/DSA-problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
