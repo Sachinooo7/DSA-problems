@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sachinooo7/DSA-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sachinooo7/DSA-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Sachinooo7/DSA-problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sachinooo7/DSA-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sachinooo7/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sachinooo7/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Sachinooo7/DSA-problems/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Sachinooo7/DSA-problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sachinooo7/DSA-problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sachinooo7/DSA-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sachinooo7/DSA-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sachinooo7/DSA-problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
