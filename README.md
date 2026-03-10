@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3798-largest-even-number](https://github.com/Sachinooo7/DSA-problems/tree/master/3798-largest-even-number) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
