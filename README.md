@@ -744,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Shortest Path
 |  |
 | ------- |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Sachinooo7/DSA-problems/tree/master/3828-final-element-after-subarray-deletions) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
