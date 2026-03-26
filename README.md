@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/Sachinooo7/DSA-problems/tree/master/3861-minimum-capacity-box) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sachinooo7/DSA-problems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3952-trionic-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3952-trionic-array-i) |
 | [4003-longest-fibonacci-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/4003-longest-fibonacci-subarray) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/Sachinooo7/DSA-problems/tree/master/3828-final-element-after-subarray-deletions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
