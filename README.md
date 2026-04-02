@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Sachinooo7/DSA-problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sachinooo7/DSA-problems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3952-trionic-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3952-trionic-array-i) |
 | [4003-longest-fibonacci-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/4003-longest-fibonacci-subarray) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Sachinooo7/DSA-problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Shortest Path
 |  |
 | ------- |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3827-count-monobit-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/3827-count-monobit-integers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Sachinooo7/DSA-problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Sliding Window
 |  |
 | ------- |
