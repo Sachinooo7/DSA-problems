@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Sachinooo7/DSA-problems/tree/master/3194-find-words-containing-character) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachinooo7/DSA-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Sachinooo7/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sachinooo7/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachinooo7/DSA-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sachinooo7/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachinooo7/DSA-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Sachinooo7/DSA-problems/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
