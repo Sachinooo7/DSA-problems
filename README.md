@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Sachinooo7/DSA-problems/tree/master/3828-final-element-after-subarray-deletions) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Sachinooo7/DSA-problems/tree/master/3828-final-element-after-subarray-deletions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
