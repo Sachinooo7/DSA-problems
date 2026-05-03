@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sachinooo7/DSA-problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sachinooo7/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachinooo7/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/1392-longest-happy-prefix) |
 ## Game Theory
 |  |
