@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/Sachinooo7/DSA-problems/tree/master/2636-maximum-subsequence-score) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sachinooo7/DSA-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
