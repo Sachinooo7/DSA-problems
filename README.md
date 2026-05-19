@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Sachinooo7/DSA-problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Sachinooo7/DSA-problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sachinooo7/DSA-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachinooo7/DSA-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Sachinooo7/DSA-problems/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/Sachinooo7/DSA-problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Sachinooo7/DSA-problems/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachinooo7/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Sachinooo7/DSA-problems/tree/master/1129-longest-string-chain) |
+| [1345-jump-game-iv](https://github.com/Sachinooo7/DSA-problems/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sachinooo7/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sachinooo7/DSA-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/1510-find-lucky-integer-in-an-array) |
