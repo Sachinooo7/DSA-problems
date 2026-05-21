@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Sachinooo7/DSA-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sachinooo7/DSA-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sachinooo7/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sachinooo7/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sachinooo7/DSA-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachinooo7/DSA-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Sachinooo7/DSA-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Sachinooo7/DSA-problems/tree/master/3194-find-words-containing-character) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachinooo7/DSA-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1256,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sachinooo7/DSA-problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachinooo7/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sachinooo7/DSA-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Quickselect
 |  |
 | ------- |
