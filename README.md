@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sachinooo7/DSA-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Sachinooo7/DSA-problems/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Union Find
 |  |
 | ------- |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Sachinooo7/DSA-problems/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Stack
 |  |
 | ------- |
