@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3583-count-special-triplets](https://github.com/Sachinooo7/DSA-problems/tree/master/3583-count-special-triplets) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3637-trionic-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sachinooo7/DSA-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Sachinooo7/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sachinooo7/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/Sachinooo7/DSA-problems/tree/master/3321-type-of-triangle) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sachinooo7/DSA-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sachinooo7/DSA-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Sachinooo7/DSA-problems/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sachinooo7/DSA-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Sachinooo7/DSA-problems/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Union Find
 |  |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sachinooo7/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachinooo7/DSA-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-transform-array-to-all-equal-elements) |
