@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/Sachinooo7/DSA-problems/tree/master/3945-digit-frequency-score) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Sachinooo7/DSA-problems/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Sachinooo7/DSA-problems/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3945-digit-frequency-score](https://github.com/Sachinooo7/DSA-problems/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
