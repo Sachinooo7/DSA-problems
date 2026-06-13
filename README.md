@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Sachinooo7/DSA-problems/tree/master/3828-final-element-after-subarray-deletions) |
+| [3838-weighted-word-mapping](https://github.com/Sachinooo7/DSA-problems/tree/master/3838-weighted-word-mapping) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3861-minimum-capacity-box](https://github.com/Sachinooo7/DSA-problems/tree/master/3861-minimum-capacity-box) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3798-largest-even-number](https://github.com/Sachinooo7/DSA-problems/tree/master/3798-largest-even-number) |
+| [3838-weighted-word-mapping](https://github.com/Sachinooo7/DSA-problems/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/Sachinooo7/DSA-problems/tree/master/3856-trim-trailing-vowels) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sachinooo7/DSA-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/Sachinooo7/DSA-problems/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
