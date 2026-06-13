@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Sachinooo7/DSA-problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Sachinooo7/DSA-problems/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sachinooo7/DSA-problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Sachinooo7/DSA-problems/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/Sachinooo7/DSA-problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Sachinooo7/DSA-problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Sachinooo7/DSA-problems/tree/master/0343-integer-break) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sachinooo7/DSA-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sachinooo7/DSA-problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Sachinooo7/DSA-problems/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0394-decode-string) |
