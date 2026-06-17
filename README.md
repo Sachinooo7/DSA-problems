@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/3447-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sachinooo7/DSA-problems/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
