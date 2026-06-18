@@ -944,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Sachinooo7/DSA-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sachinooo7/DSA-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
