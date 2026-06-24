@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sachinooo7/DSA-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Sachinooo7/DSA-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sachinooo7/DSA-problems/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/Sachinooo7/DSA-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Sachinooo7/DSA-problems/tree/master/0463-island-perimeter) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sachinooo7/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Sachinooo7/DSA-problems/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Sachinooo7/DSA-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Sachinooo7/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sachinooo7/DSA-problems/tree/master/0383-ransom-note) |
@@ -1240,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Sachinooo7/DSA-problems/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Sachinooo7/DSA-problems/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/Sachinooo7/DSA-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachinooo7/DSA-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [2107-find-unique-binary-string](https://github.com/Sachinooo7/DSA-problems/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
