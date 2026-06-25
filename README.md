@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sachinooo7/DSA-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Sachinooo7/DSA-problems/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Sachinooo7/DSA-problems/tree/master/3707-find-the-most-common-response) |
 | [3713-longest-balanced-substring-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sachinooo7/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -1084,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sachinooo7/DSA-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
@@ -1286,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sachinooo7/DSA-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
@@ -1328,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sachinooo7/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Sachinooo7/DSA-problems/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
