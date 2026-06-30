@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sachinooo7/DSA-problems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3904-smallest-stable-index-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3904-smallest-stable-index-ii) |
 | [3952-trionic-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3952-trionic-array-i) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4003-longest-fibonacci-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/4003-longest-fibonacci-subarray) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Sachinooo7/DSA-problems/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachinooo7/DSA-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sachinooo7/DSA-problems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Recursion
 |  |
 | ------- |
