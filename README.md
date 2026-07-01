@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3904-smallest-stable-index-ii) |
 | [3952-trionic-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3952-trionic-array-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3975-filter-occupied-intervals](https://github.com/Sachinooo7/DSA-problems/tree/master/3975-filter-occupied-intervals) |
 | [4003-longest-fibonacci-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/4003-longest-fibonacci-subarray) |
 | [4045-longest-balanced-subarray-i](https://github.com/Sachinooo7/DSA-problems/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Sachinooo7/DSA-problems/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3975-filter-occupied-intervals](https://github.com/Sachinooo7/DSA-problems/tree/master/3975-filter-occupied-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
