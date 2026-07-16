@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3861-minimum-capacity-box](https://github.com/Sachinooo7/DSA-problems/tree/master/3861-minimum-capacity-box) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Sachinooo7/DSA-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Sachinooo7/DSA-problems/tree/master/3975-filter-occupied-intervals) |
 ## Prefix Sum
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sachinooo7/DSA-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Sachinooo7/DSA-problems/tree/master/3828-final-element-after-subarray-deletions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sachinooo7/DSA-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sachinooo7/DSA-problems/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -1422,4 +1427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sachinooo7/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sachinooo7/DSA-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
