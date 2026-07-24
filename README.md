@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachinooo7/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3583-count-special-triplets](https://github.com/Sachinooo7/DSA-problems/tree/master/3583-count-special-triplets) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sachinooo7/DSA-problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Sachinooo7/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sachinooo7/DSA-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sachinooo7/DSA-problems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3827-count-monobit-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/3827-count-monobit-integers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Sachinooo7/DSA-problems/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -1308,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachinooo7/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Sachinooo7/DSA-problems/tree/master/3713-longest-balanced-substring-i) |
 | [3827-count-monobit-integers](https://github.com/Sachinooo7/DSA-problems/tree/master/3827-count-monobit-integers) |
