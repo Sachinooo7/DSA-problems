@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sachinooo7/DSA-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sachinooo7/DSA-problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sachinooo7/DSA-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sachinooo7/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/Sachinooo7/DSA-problems/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Sachinooo7/DSA-problems/tree/master/1894-merge-strings-alternately) |
