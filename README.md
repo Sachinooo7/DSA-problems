@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sachinooo7/DSA-problems/tree/master/0854-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/Sachinooo7/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [0876-hand-of-straights](https://github.com/Sachinooo7/DSA-problems/tree/master/0876-hand-of-straights) |
+| [0877-stone-game](https://github.com/Sachinooo7/DSA-problems/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0912-sort-an-array) |
 | [0932-monotonic-array](https://github.com/Sachinooo7/DSA-problems/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Sachinooo7/DSA-problems/tree/master/0940-fruit-into-baskets) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sachinooo7/DSA-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sachinooo7/DSA-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachinooo7/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Sachinooo7/DSA-problems/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sachinooo7/DSA-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sachinooo7/DSA-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sachinooo7/DSA-problems/tree/master/1121-partition-array-for-maximum-sum) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachinooo7/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Sachinooo7/DSA-problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Sachinooo7/DSA-problems/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Sachinooo7/DSA-problems/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sachinooo7/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sachinooo7/DSA-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sachinooo7/DSA-problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1416,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Sachinooo7/DSA-problems/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Sachinooo7/DSA-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Sachinooo7/DSA-problems/tree/master/3828-final-element-after-subarray-deletions) |
 ## Geometry
